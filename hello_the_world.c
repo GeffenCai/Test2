@@ -1,8 +1,8 @@
 while(1)
 {
-	int i;
+	int i , j = 30;
 
-	for(i=0;i<30;i++);
+	for(i=0;i<j;i++);
 	printf("****************");
 	printf("Hello the world");
 	printf("****************");
